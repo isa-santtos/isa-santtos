@@ -1,5 +1,4 @@
-# Olá Pessoal eu sou a Isabela 👋
-## Bem vindo ao meu perfil GitHub 👋
+# Olá Pessoal eu sou a Isabela, bem vindos ao meu perfil GitHub   👋
 
 ###### ⚡Estudo QA e IA. 
 ###### Sou QA há mais de 10 anos e sempre atuei com testes manuais, estou me atualizando para migrar para automação de testes e aqui vou compartilhar os projetos que venho criando nessa jornada.
