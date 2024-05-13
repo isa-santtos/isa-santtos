@@ -17,5 +17,5 @@
   <div>
 
   ## Projetos e estudos
-  Projeto do curso de formação de lógica de programação Alura [Numero Secreto em JavaScript](https://github.com/isa-santtos/numero-secreto).
-  * Em andamento
+  Projeto do curso de **Formação de lógica de programação Alura** [Numero Secreto em JavaScript](https://github.com/isa-santtos/numero-secreto).
+  * Concluído
