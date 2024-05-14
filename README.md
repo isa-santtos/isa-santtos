@@ -17,8 +17,16 @@
   <div>
 
   ## Projetos e estudos
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <div>
+    
+  ###### JavaScript
   Projeto do curso de **Formação de lógica de programação Alura** [Numero Secreto em JavaScript](https://github.com/isa-santtos/numero-secreto).
   * Concluído
   
   Projeto do curso de **Formação de lógica de programação Alura** [Sorteador de Números em JavaScript](https://github.com/isa-santtos/sorteador-numeros2).
+  * Concluído
+
+ Projeto do curso de **Formação de lógica de programação Alura** [Aluguel de games em JavaScripts](https://github.com/isa-santtos/alugames).
   * Concluído
