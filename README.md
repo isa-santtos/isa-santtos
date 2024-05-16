@@ -31,5 +31,8 @@
  Projeto do curso de **Formação de lógica de programação Alura** [Aluguel de games em JavaScripts](https://github.com/isa-santtos/alugames).
   * Concluído
 
- Projeto do curso de **Formação de lógica de programação Alura** [Carrinho de compras em JavaScripts].(https://github.com/isa-santtos/carrinho-compras/tree/main)
+ Projeto do curso de **Formação de lógica de programação Alura** [Carrinho de compras em JavaScripts](https://github.com/isa-santtos/carrinho-compras/tree/main)
+  * Concluído
+
+ Projeto do curso de **Formação de lógica de programação Alura** [Compra de ingressos em JavaScripts](https://github.com/isa-santtos/ingresso/tree/master)
   * Concluído
