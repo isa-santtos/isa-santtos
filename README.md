@@ -1,8 +1,16 @@
 # Olá Pessoal eu sou a Isabela, bem vindos ao meu perfil GitHub   👋
 
 ###### ⚡Estudo QA e Front-End. 
-###### Sou QA há mais de 10 anos e sempre atuei com testes manuais, estou me atualizando para migrar para automação de testes e aqui vou compartilhar os projetos que venho criando nessa jornada.
-###### Também sou apaixonada por Inteligência Artificial e pretendo iniciar estudos sobre o assunto.
+###### Sou um Analista de Qualidade de Software com mais de 10 anos de experiência, especializado em testes manuais. Recentemente, embarquei em uma nova jornada para me atualizar e migrar para a automação de testes.
+
+###### Aqui, você encontrará os projetos que estou desenvolvendo durante essa transição, desde pequenos projetos de desenvolvimento até scripts de automação. 
+
+###### Meu objetivo é compartilhar conhecimento, aprender com a comunidade e contribuir para o avanço das práticas de QA.
+
+###### Sinta-se à vontade para explorar meus repositórios, fazer perguntas, sugerir melhorias e colaborar!
+
+###### Vamos juntos elevar a qualidade do software!
+
 **💬 Me encontre também em:**
 
   <div>
