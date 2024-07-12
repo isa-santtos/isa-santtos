@@ -51,5 +51,5 @@
  Projeto do curso de **Formação de lógica de programação Alura** [Compra de ingressos em JavaScripts](https://github.com/isa-santtos/ingresso/tree/master)
   * Concluído
 
- Projeto para o curso base para iniciantes em Devops / Conainers com Dockers [Allurabooks](https://github.com/isa-santtos/allbooks)
+ Projeto para o curso base para iniciantes em Devops / Conainers com Dockers [Allbooks](https://github.com/isa-santtos/allbooks)
   * Concluído
